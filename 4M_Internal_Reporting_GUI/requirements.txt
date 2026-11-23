@@ -1,0 +1,2 @@
+# Không cần thư viện bên ngoài cho bản GUI cơ bản.
+# Python 3.10+ khuyến nghị.

@@ -1,0 +1,6 @@
+machine_code,machine_name,line,process
+MC001,Injection Machine 01,XC-01,Injection
+MC002,Injection Machine 02,XC-01,Injection
+MC003,Injection Machine 03,XC-02,Injection
+MC004,Robot Loader 01,XM-01,Automation
+MC005,Chiller 01,Utility,Cooling

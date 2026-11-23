@@ -1,0 +1,12 @@
+1. Giao diện user (Leader) sẽ chỉ có 2 mục.
+- Báo cáo sự cố 4M: Giữ nguyên logic như hiện tại. (Sửa tab machine đang không có nút submit).
+- Bảng thông báo chung. Phần bên trên hiển thị thông báo chung (Trưởng phòng ghim). Bên dưới là các sự cố 4M cả của các user khác, sắp xếp theo thời gian mới nhất lên trên cùng và tình trạng xử lý.
+
+2. Giao diện kỹ sư trở lên sẽ có 3 mục.
+- Báo cáo sự cố 4M.
+- Bảng thông báo chung
+- Chỉ thị và thông báo.
+
+3. Tất cả các hành động, trạng thái đều hiển thị lên bảng thông báo chung.
+4. Tất cả chức năng, dòng cần phải trực quan hoá, phân biệt rõ ràng. 
+5. File config là file excel xlsx, các cột rõ ràng. 

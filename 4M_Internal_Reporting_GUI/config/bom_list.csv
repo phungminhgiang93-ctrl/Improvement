@@ -1,0 +1,5 @@
+part_no,part_name,bom_name,bom_version
+PN1001,Housing Front,HOUSING-FRONT,V1.0
+PN1002,Housing Rear,HOUSING-REAR,V2.1
+PN2001,Button Set,BUTTON-SET,V1.2
+PN3001,Connector Cover,CONNECTOR-COVER,V3.0

@@ -1,0 +1,6 @@
+user_id,name,department,role,team
+E001,Nguyen Van Leader,Production,Leader,Tổ A
+E002,Tran Thi Ky Su,Production,Trưởng nhóm/Kỹ sư,Tổ A
+E003,Le Van Truong Phong,Production,Trưởng phòng,
+E004,Pham Thi Leader B,Production,Leader,Tổ B
+E005,Do Van Ky Su B,Production,Trưởng nhóm/Kỹ sư,Tổ B

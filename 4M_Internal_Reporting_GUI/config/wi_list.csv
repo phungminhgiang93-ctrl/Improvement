@@ -1,0 +1,5 @@
+wi_code,wi_name,folder_path
+WI-001,Quy trình Set-up máy,\\server\production\WI\WI-001
+WI-002,Quy trình kiểm tra First Shot,\\server\production\WI\WI-002
+WI-003,Quy trình thay khuôn,\\server\production\WI\WI-003
+WI-004,Quy trình xử lý NG,\\server\quality\WI\WI-004
